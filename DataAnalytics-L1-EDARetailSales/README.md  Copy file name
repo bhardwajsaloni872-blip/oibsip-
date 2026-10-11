@@ -1,0 +1,20 @@
+# EDA on Retail Sales Data
+
+## Project Overview
+This project focuses on Exploratory Data Analysis (EDA) of retail sales data as part of the Oasis Infobyte Data Analytics Internship.
+
+## Objectives
+- Understand the retail sales dataset.
+- Clean and prepare the data.
+- Explore sales patterns and trends.
+- Create visualizations to understand the data.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Project Status
+In Progress
